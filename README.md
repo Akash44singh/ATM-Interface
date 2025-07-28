@@ -1,1 +1,2 @@
+# ATM Interface
 This project is a console-based ATM Interface written in Java. It allows a user to interact with their bank account by checking the balance, depositing funds, and withdrawing money. The application handles invalid inputs gracefully and includes basic validation logic for secure transactions. Built using Object-Oriented Programming (OOP) concepts, it simulates real-world banking operations through a simple text menu interface.
